@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Semer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_modify_client_gui">ModifyClientGUI</string>
+    <string name="title_activity_interface_admin">interface_admin</string>
+    <string name="numero">Numero</string>
+    <string name="message">Message</string>
+    <string name="envoyer">Envoyer</string>
+
+</resources>
